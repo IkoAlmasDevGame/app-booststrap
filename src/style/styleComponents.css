@@ -1,0 +1,69 @@
+.MyBG {
+    height: 100vh;
+    background-image: linear-gradient(rgb(155, 125, 155), rgb(120, 155, 111));
+    background-size: cover;
+}
+
+.NavBG {
+    background-color: white;
+}
+
+.title-bar {
+    font-size: medium;
+}
+
+.intro {
+    height: 30%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro-old {
+    display: block;
+}
+
+.intro-latest{
+    display: block;
+}
+
+.border-u1 {
+    border: 1px solid;
+    border-radius: 25%;
+}
+
+.border-u2 {
+    border: 1px solid;
+    border-radius: 25%;
+}
+
+.border-l1 {
+    border: 1px solid;
+    border-radius: 25%;
+}
+
+.border-l2 {
+    border: 1px solid;
+    border-radius: 25%;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px black;
+}
+
+.boxCol {
+    width: 25rem;
+}
+
+.MyLatest {
+    border: 1px solid;
+    margin-bottom: 2rem;
+}
+
+.MyOld {
+    border: 1px solid;
+}
